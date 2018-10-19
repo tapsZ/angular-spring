@@ -172,7 +172,7 @@
                 <version>2.4</version>
             </plugin>
         </plugins>
-    </build> -->
+    </build> 
 
-    <packaging>war</packaging> -->
+    <packaging>war</packaging> 
 </project> -->
